@@ -1,1 +1,1 @@
-# WTM2302_Download_Tool
+基于CH347的工具，可以选择I2C/SPI/UART协议为下位机下载代码。
